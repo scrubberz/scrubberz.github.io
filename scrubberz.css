@@ -58,17 +58,20 @@ p
   text-align: center;
   font-weight: bold;
 }
-<<<<<<< HEAD
 
 
-* {
+/*CSS for Responsive Pricing table*/
+
+
+	{
   box-sizing: border-box;
 }
+
 
 /* Create three columns of equal width */
 .columns {
   float: left;
-  width: 33.3%;
+  width: 31.5%;
   padding: 8px;
 }
 
@@ -99,31 +102,25 @@ p
   border-bottom: 1px solid #eee;
   padding: 20px;
   text-align: center;
+	color:white
 }
 
 /* Grey list item */
 .price .grey {
-  background-color: #eee;
+  background-color: #ff0000;
   font-size: 20px;
 }
 
-/* The "Sign Up" button */
+/* The "Book" button */
 .button {
   background-color: #4CAF50;
   border: none;
-  color: #ffffff;
+  color: white;
   padding: 10px 25px;
   text-align: center;
-  text-decoration: none;
   font-size: 18px;
 }
 
-/* background color of descriptions */
-
-.list {
-	background-color: #ccccb3;
-
-}
 /* Change the width of the three columns to 100%
 (to stack horizontally on small screens) */
 @media only screen and (max-width: 600px) {
@@ -131,6 +128,7 @@ p
     width: 100%;
   }
 }
+
 
 /*BookingForm Page Margin*/
 div {
