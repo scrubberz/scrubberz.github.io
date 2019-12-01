@@ -46,16 +46,34 @@ h1
 {
   font-family: arial;
   font-size: 32px;
-  color: #ff8000;
-  text-align: center;
-  font-weight: bold;
+  color: #3d0066;
+	text-align: center;
+	text-shadow: 2px 2px #ecb3ff;
 }
 
 p
 {
   font-size: 24px;
   font-family: arial;
-  color: #ffffe6;
+  color: #b84dff
+;
   text-align: center;
   font-weight: bold;
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+table {
+	align: center;
+}
+
+th, td, td1 {
+  padding: 15px;
+}
+
+th {
+  text-align: left;
 }
