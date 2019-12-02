@@ -78,7 +78,7 @@ p
 /* Style the list */
 .price {
   list-style-type: none;
-  border: 1px solid #eee;
+  border: 1px solid #808080;
   margin: 0;
   padding: 0;
   -webkit-transition: 0.3s;
@@ -99,24 +99,24 @@ p
 
 /* List items */
 .price li {
-  border-bottom: 1px solid #eee;
-  padding: 20px;
+  border-bottom: 1px solid #2F4F4F;
+  padding: 25px;
   text-align: center;
 	color:white
 }
 
 /* Grey list item */
 .price .grey {
-  background-color: #ff0000;
+  background-color: #2F4F4F;
   font-size: 20px;
 }
 
 /* The "Book" button */
 .button {
-  background-color: #4CAF50;
+  background-color: #2F4F4F;
   border: none;
   color: white;
-  padding: 10px 25px;
+  padding: 25px 113px;
   text-align: center;
   font-size: 18px;
 }
