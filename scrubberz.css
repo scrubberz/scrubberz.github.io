@@ -10,6 +10,10 @@ body
 	background-color: #000000;
 }
 
+h1 {
+	color: #ffffff;
+}
+
 h2 {
 	font-size: 48px;
 	font-weight: bold;
@@ -22,6 +26,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #ccccb3;
+	font-size: 24px;
 }
 
 img {
