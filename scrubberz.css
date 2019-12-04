@@ -6,17 +6,30 @@ body
 	text-align: left;
 	font: Arial, Helvetica, sans-serif;
 	font-size: 18px;
-	color: #061C37;
-	background-color: #cce6ff;
+	color: #ffffff;
+	background-color: #000000;
 }
+
+h2 {
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	}
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #000000
-;
+  background-color: #ccccb3;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+	height: 65%;
 }
 
 li {
